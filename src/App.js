@@ -36,6 +36,8 @@ function App() {
         awayScore={awayScore} 
         setHomeScore={setHomeScore} 
         setAwayScore={setAwayScore} 
+        quarter={quarter}
+        setQuarter={setQuarter}
       />
     </div>
   );
